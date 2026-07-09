@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<countries>
+    <country>
+        <code>IN</code>
+        <name>India</name>
+    </country>
+    <country>
+        <code>US</code>
+        <name>United State</name>
+    </country>
+    <country>
+        <code>UK</code>
+        <name>United Kingdom</name>
+    </country>
+    <country>
+        <code>JP</code>
+        <name>Japan</name>
+    </country>
+    <country>
+        <code>AU</code>
+        <name>Australia</name>
+    </country>
+    <country>
+        <code>PK</code>
+        <name>Pakistan</name>
+    </country>
+    <country>
+        <code>CN</code>
+        <name>China</name>
+    </country>
+
+</countries>
