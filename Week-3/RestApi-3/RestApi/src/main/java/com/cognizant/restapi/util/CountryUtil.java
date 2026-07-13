@@ -5,7 +5,6 @@ import java.util.List;
 
 import org.springframework.oxm.jaxb.Jaxb2Marshaller;
 import javax.xml.transform.stream.StreamSource;
-
 import com.cognizant.restapi.model.Country;
 import com.cognizant.restapi.model.CountryList;
 
